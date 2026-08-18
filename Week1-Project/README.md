@@ -37,7 +37,7 @@ The analysis focused on customer demographics, contract types, services, and pay
 
 
 
-## 📷 Screenshots
+## 📷 Charts, Summary Stats and Correlation heatmap
 
 ![Summary Statistics](Week1-Project/Summary_Statistics.png)
 ![Charts](Week1-Project/Charts.png)
