@@ -1,9 +1,3 @@
-------------------------------------------------------------------------
-
-editor_options: markdown: wrap: 72 ---
-
-# Week 2 – SuperStore Sales Dashboard
-
 ## SuperStore Sales Performance Dashboard
 
 ## 📌 Project Overview
@@ -56,4 +50,5 @@ This dashboard solves that problem by transforming raw SuperStore data into acti
 - Dashboard design and storytelling in Power BI.\
 - Communicating insights into risks and opportunities.
 
+## Dashboard
 ![Dashboard](Week2-Project/Dashboard.png)
