@@ -1,4 +1,4 @@
-## SuperStore Sales Performance Dashboard
+## Week 2 - SuperStore Sales Performance Dashboard
 
 ## 📌 Project Overview
 
